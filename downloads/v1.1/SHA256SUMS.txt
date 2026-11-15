@@ -1,0 +1,2 @@
+90e036cfde8dd6925cc69b80880b66cac3bea02e413965252a6e746c71f8c803  rf_tools.fap
+1b21bdb4c55e7ba22a9856c9e99eb4d178f0ccee082f6fc900ed1be0a0fa3f7c  RF-Tools-v1.1-source.zip
